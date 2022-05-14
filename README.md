@@ -1,2 +1,2 @@
 # Portfolio-website
-https://aditya-gurnani.herokuapp.com/index.html
+https://adig2208.github.io/Portfolio-website/
